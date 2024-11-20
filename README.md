@@ -1,2 +1,2 @@
-# ender3-firmware-configs
-Marlin Config files for various boards. 
+# printer-firmware-configs
+Marlin/Klipper Configs files for various boards. 
